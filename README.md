@@ -12,4 +12,4 @@ once there hit load unpacked ![image](https://github.com/user-attachments/assets
 
 and find the folder you extracted from the zip folder in your downloads, it should show up in your extensions at that point
 
-To try it out highlight some text, right click and hit News.
+To try it out highlight some text, right click and hit govsearch.
